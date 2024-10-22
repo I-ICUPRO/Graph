@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Страница — 1" id="m99-PNZtbNNq8P7Ewc3H">
-    <mxGraphModel dx="1259" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1049" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,8 +40,36 @@
         <mxCell id="eZ47qLhWKVOZvFbIb8ie-2" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="265" y="430" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WdySh8FL2zjixqtV1s8D-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eZ47qLhWKVOZvFbIb8ie-4" target="WdySh8FL2zjixqtV1s8D-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WdySh8FL2zjixqtV1s8D-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eZ47qLhWKVOZvFbIb8ie-4" target="WdySh8FL2zjixqtV1s8D-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eZ47qLhWKVOZvFbIb8ie-4" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="540" width="80" height="80" as="geometry" />
+          <mxGeometry x="540" y="585" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WdySh8FL2zjixqtV1s8D-1" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WdySh8FL2zjixqtV1s8D-2" value="Показания&lt;div&gt;отправлены&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="690" y="585" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WdySh8FL2zjixqtV1s8D-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WdySh8FL2zjixqtV1s8D-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="250" as="targetPoint" />
+            <mxPoint x="140" y="640.0000000000002" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="160" y="641" />
+              <mxPoint x="80" y="641" />
+              <mxPoint x="80" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WdySh8FL2zjixqtV1s8D-5" value="Возвращения на страницу показаний" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="585" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
